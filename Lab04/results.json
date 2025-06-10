@@ -1,0 +1,139 @@
+[
+  {
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "area": 923768.0,
+    "population": 206139587,
+    "borders": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ],
+    "borders_count": 4,
+    "flag": "https://flagcdn.com/w320/ng.png"
+  },
+  {
+    "name": "Niger",
+    "capital": "Niamey",
+    "area": 1267000.0,
+    "population": 24206636,
+    "borders": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ],
+    "borders_count": 7,
+    "flag": "https://flagcdn.com/w320/ne.png"
+  },
+  {
+    "name": "Mali",
+    "capital": "Bamako",
+    "area": 1240192.0,
+    "population": 20250834,
+    "borders": [
+      "DZA",
+      "BFA",
+      "GIN",
+      "CIV",
+      "MRT",
+      "NER",
+      "SEN"
+    ],
+    "borders_count": 7,
+    "flag": "https://flagcdn.com/w320/ml.png"
+  },
+  {
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "area": 112622.0,
+    "population": 12123198,
+    "borders": [
+      "BFA",
+      "NER",
+      "NGA",
+      "TGO"
+    ],
+    "borders_count": 4,
+    "flag": "https://flagcdn.com/w320/bj.png"
+  },
+  {
+    "name": "Ghana",
+    "capital": "Accra",
+    "area": 238533.0,
+    "population": 31072945,
+    "borders": [
+      "BFA",
+      "CIV",
+      "TGO"
+    ],
+    "borders_count": 3,
+    "flag": "https://flagcdn.com/w320/gh.png"
+  },
+  {
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "area": 272967.0,
+    "population": 20903278,
+    "borders": [
+      "BEN",
+      "CIV",
+      "GHA",
+      "MLI",
+      "NER",
+      "TGO"
+    ],
+    "borders_count": 6,
+    "flag": "https://flagcdn.com/w320/bf.png"
+  },
+  {
+    "name": "Senegal",
+    "capital": "Dakar",
+    "area": 196722.0,
+    "population": 16743930,
+    "borders": [
+      "GMB",
+      "GIN",
+      "GNB",
+      "MLI",
+      "MRT"
+    ],
+    "borders_count": 5,
+    "flag": "https://flagcdn.com/w320/sn.png"
+  },
+  {
+    "name": "Guinea",
+    "capital": "Conakry",
+    "area": 245857.0,
+    "population": 13132792,
+    "borders": [
+      "CIV",
+      "GNB",
+      "LBR",
+      "MLI",
+      "SEN",
+      "SLE"
+    ],
+    "borders_count": 6,
+    "flag": "https://flagcdn.com/w320/gn.png"
+  },
+  {
+    "name": "Ivory Coast",
+    "capital": "Yamoussoukro",
+    "area": 322463.0,
+    "population": 26378275,
+    "borders": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ],
+    "borders_count": 5,
+    "flag": "https://flagcdn.com/w320/ci.png"
+  }
+]
